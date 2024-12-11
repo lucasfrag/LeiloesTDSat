@@ -36,7 +36,9 @@ public class ProdutosDAO {
     }
     
     
-    
+    public void venderProduto(ProdutosDTO p) {
+        // ...
+    }
         
 }
 
