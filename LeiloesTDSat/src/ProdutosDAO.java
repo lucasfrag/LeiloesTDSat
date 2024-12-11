@@ -36,7 +36,13 @@ public class ProdutosDAO {
     }
     
     
+    public void venderProduto(ProdutosDTO p) {
+        // ...
+    }
     
-        
+    public ArrayList<ProdutosDTO> listarProdutosVendidos() {
+        ArrayList<ProdutosDTO> listaVendidos = null;
+        return listaVendidos;
+    }
 }
 
