@@ -10,3 +10,6 @@ Atividade desenvolvida durante a UC11 do curso Técnico em Desenvolvimento de Si
 ## Tecnologias 💻
 - Java
 - MySQL
+
+## Imagens 📸
+<img src="https://github.com/lucasfrag/LeiloesTDSat/blob/main/imagem.jpg" width="" height="150">
